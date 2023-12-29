@@ -1,4 +1,4 @@
-Game 1: 13 red, 18 green; 5 green, 3 red, 5 blue; 5 green, 9 red, 6 blue; 3 blue, 3 green
+let input = `Game 1: 13 red, 18 green; 5 green, 3 red, 5 blue; 5 green, 9 red, 6 blue; 3 blue, 3 green
 Game 2: 2 green, 3 blue, 5 red; 9 green, 4 red, 2 blue; 4 green, 3 blue; 2 blue, 3 red; 5 red, 3 blue, 9 green; 9 green, 5 red, 2 blue
 Game 3: 12 green, 3 red, 3 blue; 2 blue, 5 green, 2 red; 2 red, 3 blue, 11 green; 2 red, 8 green, 7 blue
 Game 4: 1 green, 2 blue; 7 green, 13 red; 2 blue, 5 green, 7 red; 6 green, 2 red
@@ -97,4 +97,7 @@ Game 96: 6 red, 3 blue; 7 green, 5 blue, 10 red; 9 green, 1 blue; 6 blue, 1 red,
 Game 97: 3 green, 1 red, 13 blue; 1 red, 8 green, 2 blue; 1 green, 2 blue, 2 red; 1 red, 4 green, 9 blue
 Game 98: 1 green, 8 red, 7 blue; 8 blue, 8 red, 3 green; 1 blue, 2 red; 4 red, 7 blue; 3 green, 3 blue, 3 red
 Game 99: 9 blue, 14 red; 3 blue, 10 red, 5 green; 3 blue, 3 green, 6 red
-Game 100: 12 blue, 2 green; 2 green, 4 red, 13 blue; 9 blue, 1 red, 2 green; 2 green, 3 red, 1 blue
+Game 100: 12 blue, 2 green; 2 green, 4 red, 13 blue; 9 blue, 1 red, 2 green; 2 green, 3 red, 1 blue`;
+
+
+export default input;
